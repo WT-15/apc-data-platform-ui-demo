@@ -71,22 +71,25 @@
     ```
 
 ## 📁 项目结构
+```
 apc-data-platform/
 ├── src/
-│ ├── components/ # React 组件
-│ │ ├── DataSourceConfig.jsx # 数据源管理
-│ │ ├── DataFlowDesigner.jsx # 数据流设计 (使用 React Flow)
-│ │ ├── TaskFlowMonitor.jsx # 任务流监控
-│ │ ├── DataLineageView.jsx # 数据血缘视图
-│ │ └── DataQualityDashboard.jsx # 数据质量看板
-│ ├── App.jsx # 应用主组件与布局
-│ └── main.jsx # 应用入口文件
-├── public/ # 静态资源
-├── package.json # 项目依赖与脚本
-├── vite.config.js # Vite 配置文件
-├── README.md # 项目说明 (本文件)
-└── .gitignore # Git 忽略配置
-
+│   ├── components/
+│   │   ├── DataSourceConfig.jsx
+│   │   ├── DataFlowDesigner.jsx
+│   │   ├── TaskFlowMonitor.jsx
+│   │   ├── DataLineageView.jsx
+│   │   └── DataQualityDashboard.jsx
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── public/
+├── package.json
+├── vite.config.js
+├── index.html
+├── README.md
+└── .gitignore
+```
 
 
 ## 🧩 核心模块详解
