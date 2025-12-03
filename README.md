@@ -8,11 +8,11 @@
 
 一个基于现代前端技术栈构建的、用于半导体制造业的**先进过程控制（APC）数据平台**可视化前端。本系统模拟展示了APC系统中关键的数据集成、处理、监控与分析流程。
 
-![APC 数据平台截图1](https://raw.githubusercontent.com/WT-15/apc-data-platform-ui-demo/main/docs/assets/13a8394b-cdd9-4c6b-b716-c25cad2dbdb4.png)
-![APC 数据平台截图2](https://raw.githubusercontent.com/WT-15/apc-data-platform-ui-demo/main/docs/assets/38de21b3-339b-4547-bdb3-bb41bd07494a.png)
-![APC 数据平台截图3](https://raw.githubusercontent.com/WT-15/apc-data-platform-ui-demo/main/docs/assets/0516cf47-e92c-48e9-a25b-7d0637c3b712.png)
-![APC 数据平台截图4](https://raw.githubusercontent.com/WT-15/apc-data-platform-ui-demo/main/docs/assets/afb99099-c597-40c1-bfae-7450c0940e82.png)
-![APC 数据平台截图5](https://raw.githubusercontent.com/WT-15/apc-data-platform-ui-demo/main/docs/assets/f81a31e7-139e-4eea-9e2f-06eaa683b14d.png)
+![APC 数据平台截图1](docs/assets/13a8394b-cdd9-4c6b-b716-c25cad2dbdb4.png)
+![APC 数据平台截图2](docs/assets/38de21b3-339b-4547-bdb3-bb41bd07494a.png)
+![APC 数据平台截图3](docs/assets/0516cf47-e92c-48e9-a25b-7d0637c3b712.png)
+![APC 数据平台截图4](docs/assets/afb99099-c597-40c1-bfae-7450c0940e82.png)
+![APC 数据平台截图5](docs/assets/f81a31e7-139e-4eea-9e2f-06eaa683b14d.png)
 
 
 ## ✨ 核心特性
